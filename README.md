@@ -21,9 +21,12 @@ The study aimed to identify differentially expressed genes, construct protein-pr
   - **C-type lectin receptor signaling pathway** plays a role in immune response, indicating possible immune evasion or modulation by uLMS cells.
 
 #### Hub Genes and Their Roles
-- **RPS27A:** Involved in ribosome assembly, supporting increased protein synthesis needed for rapid cancer cell proliferation.  
-- **CCNA2:** A key cell cycle regulator that likely promotes uncontrolled cell division in cancer.  
-- **EPRS1:** Implicated in amino acid metabolism and protein synthesis, aiding tumor growth and adaptation.
+
+| Rank | Gene Name | Score | Function |
+|------|-----------|-------|----------|
+| 1    | RPS27A    | 112   |Supports increased protein synthesis needed for rapid cancer cell proliferation|
+| 2    | CCNA2     | 58    |A key cell cycle regulator that likely promotes uncontrolled cell division in cancer|
+| 3    | EPRS1     | 52    |Implicated in amino acid metabolism and protein synthesis, aiding tumor growth and adaptation|
 
 ## Conclusion
 - This study provides a comprehensive transcriptomic overview of uterine leiomyosarcoma, offering valuable insights into its molecular landscape.
