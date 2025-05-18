@@ -3,7 +3,7 @@ The study aimed to identify differentially expressed genes, construct protein-pr
 
 ## Workflow
 
-!
+![Workflow](images/image.png)
 
 ## Results and Discussion
 
