@@ -8,17 +8,20 @@ The study aimed to identify differentially expressed genes, construct protein-pr
 ## Results and Discussion
 
 #### Differential Gene Expression Analysis
-- Identified **1,296 differentially expressed genes (DEGs)**:  
-  - 664 upregulated genes 
-  - 632 downregulated genes
-- These changes indicate substantial transcriptional alterations in uterine leiomyosarcoma (uLMS) tissues compared to normal samples.  
-- The large number of DEGs suggests widespread molecular dysregulation contributing to tumor development.
+
+| Description                                 | Count  |
+|---------------------------------------------|--------|
+| Total differentially expressed genes (DEGs) | 1,296  |
+| Upregulated genes                           | 664    |
+| Downregulated genes                         | 632    |
 
 #### Pathway Enrichment and PPI Network Analysis
-- DEGs are enriched in key signaling pathways:  
-  - **Relaxin signaling pathway** promotes tissue remodeling and fibrosis, which may facilitate tumor invasion. 
-  - **Prolactin signaling pathway** influences cell proliferation and survival, contributing to tumor aggressiveness.  
-  - **C-type lectin receptor signaling pathway** plays a role in immune response, indicating possible immune evasion or modulation by uLMS cells.
+
+| Signaling Pathway                   | Role/Implication                                                                                  |
+|-----------------------------------|-------------------------------------------------------------------------------------------------|
+| Relaxin signaling pathway          | Promotes tissue remodeling and fibrosis, which may facilitate tumor invasion.                   |
+| Prolactin signaling pathway       | Influences cell proliferation and survival, contributing to tumor aggressiveness.               |
+| C-type lectin receptor signaling pathway | Plays a role in immune response, indicating possible immune evasion or modulation by uLMS cells. |
 
 #### Hub Genes and Their Roles
 
