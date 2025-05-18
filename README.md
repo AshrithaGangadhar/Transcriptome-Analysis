@@ -3,7 +3,7 @@ The study aimed to identify differentially expressed genes, construct protein-pr
 
 ## Workflow
 
-![Workflow](images/image.png)
+![Workflow](https://github.com/AshrithaGangadhar/Transcriptome-Analysis/blob/main/images/Workflow.png)
 
 ## Results and Discussion
 
